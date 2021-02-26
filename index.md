@@ -4,5 +4,4 @@ You can use this page to locate app-ads.txt file while crawling .
 
 ### Press here to go to app-ads.txt
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Leoprotector/app-ads.txt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+On selecting this link you will be redirected to file  [app-ads.txt](https://github.com/Leoprotector/app-ads.txt/app-ads.txt).
